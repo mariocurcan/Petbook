@@ -5,6 +5,7 @@ import { useExampleHook, useAnotherHook } from '../../hooks'
 import {getAllUsersParams} from '../../services';
 import { useEffect } from 'react';
 import { strings } from '../../utils'
+// import { User } from '../../interfaces'
 
 
 const Home = () => {
